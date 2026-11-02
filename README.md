@@ -269,14 +269,19 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-1. block.x = 512: 
+
+1. block.x = 256 :
+<img width="845" height="212" alt="image" src="https://github.com/user-attachments/assets/0e07e5a5-f8d2-40d7-9b3e-e0204d24caf5" />
+
+2. block.x = 512: 
 <img width="837" height="217" alt="image" src="https://github.com/user-attachments/assets/9ed803e6-9bb6-4be0-8876-e54edab210f7" />
 
-2. block.x = 1024 :
+3. block.x = 1024 :
 <img width="862" height="192" alt="image" src="https://github.com/user-attachments/assets/0ff4509e-93c3-43a0-b129-53d289e23ae6" />
 
-3. block.x = 256 :
-<img width="845" height="212" alt="image" src="https://github.com/user-attachments/assets/0e07e5a5-f8d2-40d7-9b3e-e0204d24caf5" />
+4. block.x = 1023:
+ <img width="841" height="182" alt="image" src="https://github.com/user-attachments/assets/a1a8cce1-0d6f-4e6b-bbf6-681575d182d1" />
+  
 
 
 
